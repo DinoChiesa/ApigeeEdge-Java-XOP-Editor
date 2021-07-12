@@ -1,7 +1,0 @@
-<JavaCallout name='Java-ProcessXop-1'>
-  <Properties>
-    <Property name="source">message</Property>
-  </Properties>
-  <ClassName>com.google.apigee.edgecallouts.XopEditor</ClassName>
-  <ResourceURL>java://edge-custom-xop-editor-20200310-u1.jar</ResourceURL>
-</JavaCallout>
